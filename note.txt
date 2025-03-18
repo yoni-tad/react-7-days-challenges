@@ -1,0 +1,9 @@
+#Top 7 React JS Coding Challenges 2025
+
+1. Dynamic Form Validator
+2. Persistent Task Tracker
+3. Sortable Task Manager
+4. Paginated Content Viewer
+5. Smart Product Filter
+6. Firebase Authentication System
+7. Real-Time Chat Application
