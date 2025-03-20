@@ -1,15 +1,15 @@
 #Challenges details
 
-1. Dynamic Form Validator
+1. Dynamic Form Validator ✅
 Objective: Develop a user registration form with dynamic validation to ensure that all required fields are filled out correctly and that email addresses are in the correct format.
 Challenge: Implement dynamic validation to provide real-time feedback to users as they fill out the form, indicating any errors or missing information.
 Skills tested: Form handling, input validation, state management
 
 Tasks:
-    Create a user registration form UI with fields for username, email, and password. ✅
-    Implement dynamic validation to check for required fields and valid email format. ✅
-    Display error messages next to the corresponding input fields for invalid entries. ✅
-    Add a submit button to trigger form submission. ✅
+    Create a user registration form UI with fields for username, email, and password. 
+    Implement dynamic validation to check for required fields and valid email format. 
+    Display error messages next to the corresponding input fields for invalid entries. 
+    Add a submit button to trigger form submission. 
     Integrate form submission with a mock API call (simulated delay).
     Display a success message upon successful registration.
 Hints:
