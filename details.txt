@@ -19,7 +19,7 @@ Hints:
     Disable the submit button if there are validation errors.
     Use a loading spinner or message to indicate form submission in progress.
 
-2. Persistent Task Tracker
+2. Persistent Task Tracker ✅
 Objective: Build a task tracker application that stores tasks locally, allowing users to access their tasks even after closing the browser.
 Challenge: Implement local storage functionality to save tasks on the user’s device and retrieve them when the application is reopened.
 Skills tested: Local storage management, state persistence, lifecycle methods
