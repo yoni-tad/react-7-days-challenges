@@ -37,7 +37,7 @@ Hints:
     Consider adding animations or transitions for smoother user interactions.
     Test the application’s behavior with different browsers and devices to ensure compatibility.
 
-3. Sortable Task Manager
+3. Sortable Task Manager ✅
 Objective: Develop a task manager application with drag-and-drop functionality to reorder tasks effortlessly.
 Challenge: Implement drag-and-drop functionality to allow users to reorder tasks by dragging them to their desired position in the task list.
 Skills tested: Drag-and-drop, state manipulation, list rendering
@@ -54,7 +54,7 @@ Hints:
     Consider implementing keyboard shortcuts or alternative methods for users who cannot use drag-and-drop.
     Test the application on different devices and browsers to ensure compatibility.
 
-4. Paginated Content Viewer
+4. Paginated Content Viewer ✅
 Objective: Implement a content viewer with pagination for seamless browsing through a large dataset.
 Challenge: Divide a large dataset into pages and provide navigation controls to allow users to navigate through the content easily.
 Skills tested: Pagination, data manipulation, conditional rendering
@@ -71,7 +71,7 @@ Hints:
     Implement event handlers to update the current page when users interact with pagination controls.
     Consider adding additional navigation features like first and last page buttons for improved usability.
 
-5. Smart Product Filter
+5. Smart Product Filter ✅
 Objective: Develop an advanced product filtering system for e-commerce, enabling users to find products based on specific criteria.
 Challenge: Implement filter options such as category, price range, brand, and other attributes, allowing users to narrow down product listings according to their preferences.
 Skills tested: Filtering logic, user interface design, data manipulation
