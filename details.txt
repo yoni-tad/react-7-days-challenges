@@ -89,7 +89,7 @@ Hints:
     Implement debounce or throttle techniques to avoid excessive re-rendering during filter adjustments.
     Consider adding sorting options to allow users to further customize their product listings.
 
-6. Firebase Authentication System
+6. Firebase Authentication System ✅
 Objective: Set up a secure authentication system using Firebase for user registration and login functionalities.
 Challenge: Integrate Firebase Authentication SDK into the application and implement user registration, login, and logout functionalities securely.
 Skills tested: Firebase integration, user authentication, error handling
