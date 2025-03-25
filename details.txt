@@ -106,23 +106,7 @@ Hints:
     Utilize Firebase Auth error codes and messages to provide informative error feedback to users.
     Implement client-side route guards or server-side authentication checks to secure routes.
 
-7. Real-Time Chat Application
-Objective: Develop a real-time chat application using Socket.IO for instant messaging between multiple users.
-Challenge: Implement features such as user authentication, message sending/receiving, and real-time updates for a seamless chat experience.
-Skills tested: WebSocket communication, event handling, state synchronization
-
-Tasks:
-    Set up a server using Node.js and Socket.IO to facilitate real-time communication between clients.
-    Implement user authentication to verify the identity of users joining the chat.
-    Create a chat interface where users can send and receive messages in real-time.
-    Handle user presence and display active users in the chat interface.
-    Implement features like message timestamps, read receipts, and typing indicators for enhanced user experience.
-    Ensure data synchronization across all connected clients to maintain a consistent chat state.
-    Handle edge cases such as network disconnections, server crashes, and message errors gracefully.
-    Test the chat application with multiple users simultaneously to verify its scalability and performance.
-Hints:
-    Use Socket.IO to establish WebSocket connections between clients and the server for real-time communication.
-    Implement token-based authentication or integrate with a third-party authentication provider for user authentication.
-    Utilize Socket.IO events (e.g., connect, disconnect, message) to handle various aspects of the chat functionality.
-    Store chat messages and user data in a database (e.g., MongoDB) to persist data and ensure data consistency.
-    Consider implementing features like message history, file sharing, and multimedia support to enhance the chat experience.
+7. Real-Time Chat Application ✅
+Objective: Develop a real-time chat room application using firebase for instant messaging between multiple users.
+Challenge: Implement features such as user authentication, message sending to room, and real-time updates for a seamless chat experience.
+Skills tested: firebase, event handling, state synchronization
